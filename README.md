@@ -11,5 +11,6 @@
 C17 (Дія з текстом) = 7.Відсортувати слова заданого тексту, що починаються з голосних літер, за другою літерою.
 
 
-https://github.com/user-attachments/assets/953abc8b-bc4f-4e42-8d23-426e16b5f03b
+
+https://github.com/user-attachments/assets/e9ad45a8-f262-41a3-bc1e-1f01e77122c2
 
